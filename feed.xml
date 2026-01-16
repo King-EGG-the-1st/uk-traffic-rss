@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>UK Traffic Alerts</title>
+    <link>https://King-EGG-the-1st/uk-traffic-rss/</link>
+    <description>Manual traffic alerts feed</description>
+    <language>en-gb</language>
+
+    <item>
+      <title>M25 J13–15 CLOSED</title>
+      <description>
+        All lanes closed due to serious collision. Long delays expected.
+      </description>
+      <link>https://discord.gg/yourserver</link>
+      <pubDate>Mon, 15 Jan 2026 18:40:00 GMT</pubDate>
+      <guid>M25-J13-15-001</guid>
+    </item>
+
+  </channel>
+</rss>
