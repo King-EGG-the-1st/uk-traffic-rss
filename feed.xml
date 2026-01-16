@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
   <channel>
-    <title>MCR Traffic Alerts</title>
-    <link>https://King-EGG-the-1st/uk-traffic-rss/</link>
-    <description>Manual traffic alerts feed</description>
-    <language>en-gb</language>
+    <title>UK Traffic Alerts</title>
+    <link>https://example.com</link>
+    <description>Manual traffic updates</description>
 
     <item>
-      <title>M3 CLOSED</title>
-      <description>
-        All lanes closed due to serious collision. Long delays expected.
-      </description>
-      <link>https://discord.gg/yourserver</link>
-      <pubDate>Mon, 15 Jan 2026 18:40:00 GMT</pubDate>
-      <guid>M25-J13-15-001</guid>
+      <title>M25 J13–15 CLOSED</title>
+      <description><![CDATA[
+All lanes closed due to collision.
+]]></description>
+      <pubDate>Mon, 15 Jan 2026 19:30:00 GMT</pubDate>
+      <guid isPermaLink="false">m25-001</guid>
     </item>
 
   </channel>
