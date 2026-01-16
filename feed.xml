@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
     <title>UK Traffic Alerts</title>
@@ -10,8 +10,8 @@
       <description><![CDATA[
 All lanes closed due to collision.
 ]]></description>
-      <pubDate>Mon, 15 Jan 2026 19:30:00 GMT</pubDate>
-      <guid isPermaLink="false">m25-001</guid>
+      <pubDate>Thu, 16 Jan 2026 20:15:00 GMT</pubDate>
+      <guid isPermaLink="false">m25-002</guid>
     </item>
 
   </channel>
